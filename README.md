@@ -1,2 +1,1 @@
-# Word_predictor
-A Recurrent Neural Network (RNN) trained on Persian tweets to predict the next word(s) in a sentence. This project explores language modeling for Persian text using real social media data.
+This project implements a Recurrent Neural Network (RNN) model for next word prediction in Persian. The model is trained on a dataset of Persian tweets, learning common language patterns and structures used in social media. By providing a partial sentence, the model can predict the most likely next word(s), showcasing the application of deep learning to Persian natural language processing (NLP).
